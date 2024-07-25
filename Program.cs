@@ -84,7 +84,7 @@ namespace ConsoleApp1
                 if (field[0, 2] == Mark.Circle)
                     return GameResult.CircleWin;
             }
-            // Checl for draw or unfinished game
+            // Check for draw or unfinished game
             bool isDraw = true;
             for (int x = 0; x < 3; x++)
                 for (int y = 0; y < 3; y++)

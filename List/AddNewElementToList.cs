@@ -6,7 +6,7 @@ namespace ConsoleApp1.List
 {
     internal class AddNewElementToList
     {
-        static void Main()
+        static void Watch()
         {
             var list = new List<int>();
             var watch = new Stopwatch();//засекаем время выполнения кода

@@ -23,7 +23,7 @@ namespace ConsoleApp1
             capitalizedWords.Reverse();
             return string.Join(" ", capitalizedWords);
         }
-        public static void Main(string[] args)
+        public static void lines(string[] args)
         {
             string[] lines = {
                 "решИла нЕ Упрощать и зашифРОВАтЬ Все послаНИЕ",

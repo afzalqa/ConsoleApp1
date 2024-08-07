@@ -8,7 +8,7 @@ namespace ConsoleApp1.List
 {
     internal class Split_Join
     {
-        public static void Main()
+        public static void SplitJoin()
         {
             string citiesPopulation = @"
                 Страна Население Дата %

@@ -5,7 +5,7 @@ namespace ConsoleApp1.List
 {
     public class Dictonary
     {
-        static void Main()
+        static void Dictionary()
         {
             var array = new[] { "A", "B", "A", "AB", "AB", "BB", "A" };
             var dictionary = new Dictionary<string, int>();
